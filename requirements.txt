@@ -1,2 +1,5 @@
 scikit-learn
 plotly
+pandas
+pickle
+streamlit
